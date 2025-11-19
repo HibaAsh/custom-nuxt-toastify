@@ -1,0 +1,50 @@
+{
+  "app": {
+    "title": "My Nuxt + Vuetify App",
+    "theme": "Theme",
+    "language": "Language",
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  
+  "header": {
+    "title": "Nuxt + vue3-toastify",
+    "text": "🎉 Allows you to add toast to your app with ease."
+  },
+
+  "options": {
+    "title": "Other Props",
+    "theme": "Theme",
+    "type": "Type",
+    "position": "Position",
+    "transition": "Transition",
+    "autoCloseLabel": "Autoclose Duration:",
+    "autoCloseUnit": "ms",
+    "limit": "Limit",
+    "multiple": "Support Multiple",
+    "dangerouslyHTMLString": "Allow Dangerous HTML (default: false)",
+    "hideProgressBar": "Hide Progress Bar (less fanciness!)",
+    "disableAutoClose": "Disable Auto-Close",
+    "closeOnClick": "Close on Click",
+    "rtl": "Right-to-Left Layout",
+    "pauseOnHover": "Pause on Hover",
+    "pauseOnFocusLoss": "Pause Toast When the Window Loses Focus",
+    "newestOnTop": "Newest on Top (play nice with bottom toast)",
+    "apply": "Apply"
+  },
+
+  "toast": {
+    "default": "Default",
+    "success": "Process Successed",
+    "error": "Process Failed",
+    "warning": "Warning Message",
+    "info": "Info Message"
+  },
+
+  "error": {
+    "title": "Oops! Something went wrong.",
+    "defaultMessage": "An unexpected error occurred.",
+    "backHome": "Go Back Home"
+  }
+}

@@ -1,0 +1,20 @@
+Step 1: Create a New Nuxt Project
+
+# Create new Nuxt project
+npx nuxi@latest init custom-nuxt-toast
+
+cd custom-nuxt-toast
+
+# Install dependencies
+npm install
+
+Step 2: Install Required Packages
+
+# Install Vuetify and Vue3 Toastify
+npm install vuetify@^3.3.0 @mdi/font vue3-toastify
+
+# Install Nuxt Vuetify module (optional but recommended)
+npm install @nuxtjs/google-fonts
+
+# Development dependencies for icons
+npm install -D @nuxt/devtools
