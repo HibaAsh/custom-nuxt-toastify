@@ -2,6 +2,26 @@
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+## Description
+
+A fully-featured Nuxt 4 project demonstrating how to integrate custom toast notifications using Vue 3 + Vuetify.
+
+Features include:
+
+* Custom toast types: success, error, info, warning, and default
+
+* Theme support: light, dark, and colored themes
+
+* RTL & LTR layouts: works seamlessly with Arabic and English
+
+* i18n localization: all messages and UI elements translated
+
+* SSR-ready: fully compatible with Nuxt 4 server-side rendering
+
+* Customizable options: position, transition, auto-close, progress bar, multiple toasts, and more
+
+* Custom error page: animated, responsive, and i18n-ready
+
 ## Setup
 
 Make sure to install dependencies:
