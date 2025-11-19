@@ -254,6 +254,9 @@ const applyOptions = () => {
 
 .v-col-6 {
   .v-text-field {
+    width: 100%;
+    max-width: 100%;
+    
     @media screen and (max-width: 600px) {
       width: 100%;
       max-width: 100%;
